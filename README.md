@@ -20,7 +20,7 @@
 这样不好。</font>*
 ---
     一. 创建工程
->   入下图所示：
+>   如下图所示：
     ![Image text](https://github.com/MuXTing/ShiXunInNUIST/blob/master/image-folder/1.png)
     ![Image text](https://github.com/MuXTing/ShiXunInNUIST/blob/master/image-folder/2.png)
     ![Image text](https://github.com/MuXTing/ShiXunInNUIST/blob/master/image-folder/3.png)
@@ -111,4 +111,9 @@
     至于代码， 你可以自己敲， 也可以ctrl A & C。 看你需求了。 
     
 **声明： 代码来源于讲师印明明先生。
+
+## 此项目存在的意义
+> 1. 第一次上传项目
+> 2. 第一次写Markdown
+> 3. 第一次写教程
 
