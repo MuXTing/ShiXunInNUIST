@@ -41,7 +41,7 @@
 --- 
     二. 配置相应环境
 
->   1. 配置pom.xml文件, 
+>   1. 配置pom.xml文件,   
     ![Image text](https://github.com/MuXTing/ShiXunInNUIST/blob/master/image-folder/9.png)
     ![Image text](https://github.com/MuXTing/ShiXunInNUIST/blob/master/image-folder/10.png)
       复制内容如下：
@@ -69,7 +69,7 @@
       <artifactId>fastjson</artifactId>
       <version>1.2.59</version>
     </dependency>
->   2. 配置web.xml文件, 复制内容如下:
+>   2. 配置web.xml文件, 复制内容如下:  
       ![Image text](https://github.com/MuXTing/ShiXunInNUIST/blob/master/image-folder/11.png)
       ![Image text](https://github.com/MuXTing/ShiXunInNUIST/blob/master/image-folder/12.png)
 >>  
